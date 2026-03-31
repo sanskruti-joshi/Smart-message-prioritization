@@ -87,6 +87,14 @@ The system uses **multi-class classification** to provide more granular prioriti
 
 ---
 
+## Installation
+
+```bash
+pip install -r requirements.txt
+```
+
+---
+
 ## Limitations
 
 - Does not consider conversational context
